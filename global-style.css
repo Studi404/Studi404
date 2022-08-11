@@ -1,0 +1,44 @@
+body {
+    background-color:white;
+}
+/*  */
+#logo {
+    width: 30%;
+    
+}
+/*  */
+div.Description p{
+    font-size: 1.0cm;
+    box-shadow: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+/*  */
+#Indice div p {
+    color: red;
+    font-size: 0.5cm;
+}
+/*  */
+p {
+    color: purple;
+}
+/*  */
+.logowow {
+    width: 50%;
+    height: 50%;
+}
+/*  */
+#RoG h1 {
+    color: blue;
+}
+/*  */
+#RoG img {
+    width: 15%;
+    float: left;
+    position: absolute;
+} 
+/*  */
+.pRoG p{
+    float: right;
+    height: 10px;
+}  
+
